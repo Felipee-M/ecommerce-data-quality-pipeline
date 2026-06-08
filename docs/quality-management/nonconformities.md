@@ -1,4 +1,3 @@
-```md
 # Nonconformities Log
 
 This document records data quality issues, process failures and deviations found during the project.
