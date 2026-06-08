@@ -8,7 +8,7 @@ Build a reliable e-commerce data pipeline with validated data quality, automated
 
 | ID | Key Result | Target | Status |
 |---|---|---:|---|
-| KR-01 | Load all defined CSV files into PostgreSQL raw tables | 100% | Not started |
+| KR-01 | Load all defined CSV files into PostgreSQL raw tables | 100% | Done |
 | KR-02 | Create raw, staging and marts layers | 3 layers | Not started |
 | KR-03 | Implement data quality rules | At least 10 rules | Not started |
 | KR-04 | Create automated tests with pytest | At least 15 tests | Not started |

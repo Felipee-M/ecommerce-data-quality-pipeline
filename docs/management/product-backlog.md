@@ -2,16 +2,16 @@
 
 | ID | Backlog Item | Priority | Sprint | Status |
 |---|---|---|---|---|
-| PB-001 | Create initial project structure | High | Sprint 1 | In progress |
-| PB-002 | Configure PostgreSQL with Docker | High | Sprint 1 | In progress |
-| PB-003 | Define project documentation standards | High | Sprint 1 | In progress |
-| PB-004 | Define project OKRs | High | Sprint 1 | In progress |
-| PB-005 | Define quality policy | High | Sprint 1 | In progress |
-| PB-006 | Define dataset source | High | Sprint 1 | Pending |
-| PB-007 | Create raw schema in PostgreSQL | High | Sprint 2 | Pending |
-| PB-008 | Create CSV ingestion scripts | High | Sprint 2 | Pending |
-| PB-009 | Load raw data into PostgreSQL | High | Sprint 2 | Pending |
-| PB-010 | Validate row counts after ingestion | High | Sprint 2 | Pending |
+| PB-001 | Create initial project structure | High | Sprint 1 | Done |
+| PB-002 | Configure PostgreSQL with Docker | High | Sprint 1 | Done |
+| PB-003 | Define project documentation standards | High | Sprint 1 | Done |
+| PB-004 | Define project OKRs | High | Sprint 1 | Done |
+| PB-005 | Define quality policy | High | Sprint 1 | Done |
+| PB-006 | Define dataset source | High | Sprint 1 | Done |
+| PB-007 | Create raw schema in PostgreSQL | High | Sprint 2 | Done |
+| PB-008 | Create CSV ingestion scripts | High | Sprint 2 | Done |
+| PB-009 | Load raw data into PostgreSQL | High | Sprint 2 | Done |
+| PB-010 | Validate row counts after ingestion | High | Sprint 2 | Done |
 | PB-011 | Create staging models | High | Sprint 3 | Pending |
 | PB-012 | Create analytical marts | High | Sprint 3 | Pending |
 | PB-013 | Implement data quality checks | High | Sprint 4 | Pending |

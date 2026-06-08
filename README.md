@@ -113,6 +113,36 @@ QA test planning
 Nonconformity records
 Corrective actions
 ```
+## Raw Data Ingestion
+
+The raw data ingestion process loads CSV files from the Olist dataset into PostgreSQL under the `raw` schema.
+
+### Run ingestion
+
+```bash
+python -m src.load.load_raw_data
+```
+## Validate row counts
+
+```
+python -m src.quality.validate_raw_counts
+```
+
+## Raw tables
+
+|Source File|	Raw Table|
+|---|---|
+|olist_customers_dataset.csv|	raw.customers|
+|olist_orders_dataset.csv|	raw.orders|
+|olist_order_items_dataset.csv|	raw.order_items|
+|olist_order_payments_dataset.csv|	raw.payments|
+|olist_products_dataset.csv|	raw.products|
+|olist_sellers_dataset.csv|	raw.sellers|
+|olist_order_reviews_dataset.csv|	raw.reviews|
+|olist_geolocation_dataset.csv|	raw.geolocation|
+|product_category_name_translation.csv|	raw.product_category_translation|
+
+
 ## Current Status
 
 Sprint 1 — Planning and setup: in progress.
