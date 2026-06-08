@@ -8,18 +8,18 @@ Create the professional foundation of the project, including repository structur
 
 | ID | Task | Status |
 |---|---|---|
-| S1-001 | Create repository | In progress |
-| S1-002 | Create project folder structure | In progress |
-| S1-003 | Configure Docker Compose with PostgreSQL | In progress |
-| S1-004 | Create README initial version | In progress |
-| S1-005 | Create requirements.txt | In progress |
-| S1-006 | Create .gitignore | In progress |
-| S1-007 | Create product vision | In progress |
-| S1-008 | Create project OKRs | In progress |
-| S1-009 | Create product backlog | In progress |
-| S1-010 | Create Definition of Done | In progress |
-| S1-011 | Create quality policy | In progress |
-| S1-012 | Create process map | In progress |
+| S1-001 | Create repository | Done |
+| S1-002 | Create project folder structure | Done |
+| S1-003 | Configure Docker Compose with PostgreSQL | Done |
+| S1-004 | Create README initial version | Done |
+| S1-005 | Create requirements.txt | Done |
+| S1-006 | Create .gitignore | Done |
+| S1-007 | Create product vision | Done |
+| S1-008 | Create project OKRs | Done |
+| S1-009 | Create product backlog | Done |
+| S1-010 | Create Definition of Done | Done |
+| S1-011 | Create quality policy | Done |
+| S1-012 | Create process map | Done |
 
 ## Definition of Done
 
