@@ -130,10 +130,10 @@ Access PostgreSQL:
 docker exec -it ecommerce_postgres psql -U postgres -d ecommerce_dw
 ```
 ## Author
-```
-Felipe Mendes
-Portfolio: https://felipe-mendes-portfolio.vercel.app
-GitHub: https://github.com/Felipee-M
-LinkedIn: https://www.linkedin.com/in/felipemendessantos
-```
+
+# Felipe Mendes
+
+* [Portfólio](https://felipe-mendes-portfolio.vercel.app)
+* [GitHub](https://github.com/Felipee-M)
+* [LinkedIn](https://www.linkedin.com/in/felipemendessantos)
 
