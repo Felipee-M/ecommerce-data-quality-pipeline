@@ -17,7 +17,7 @@ API / Dashboard / Reports
 ```
 
 ## Process Steps
-```
+
 | Step | Description                   | Output                |
 | ---- | ----------------------------- | --------------------- |
 | 1    | Extract CSV files             | DataFrames            |
@@ -27,9 +27,9 @@ API / Dashboard / Reports
 | 5    | Apply data quality checks     | Quality report        |
 | 6    | Expose metrics                | API and dashboard     |
 | 7    | Review results                | Insights and evidence |
-```
+
 ## Quality Control Points
-```
+
 | Control Point          | Validation                               |
 | ---------------------- | ---------------------------------------- |
 | CSV reading            | File exists and has expected columns     |
@@ -38,4 +38,3 @@ API / Dashboard / Reports
 | Marts creation         | Business metric validation               |
 | Data quality           | Rule execution and nonconformity records |
 | Dashboard              | KPI consistency with marts               |
-```
