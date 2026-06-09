@@ -12,8 +12,8 @@
 | PB-008 | Create CSV ingestion scripts | High | Sprint 2 | Done |
 | PB-009 | Load raw data into PostgreSQL | High | Sprint 2 | Done |
 | PB-010 | Validate row counts after ingestion | High | Sprint 2 | Done |
-| PB-011 | Create staging models | High | Sprint 3 | Pending |
-| PB-012 | Create analytical marts | High | Sprint 3 | Pending |
+| PB-011 | Create staging models | High | Sprint 3 | Done |
+| PB-012 | Create analytical marts | High | Sprint 3 | Done |
 | PB-013 | Implement data quality checks | High | Sprint 4 | Pending |
 | PB-014 | Create QA test plan | High | Sprint 5 | Pending |
 | PB-015 | Create automated tests with pytest | High | Sprint 5 | Pending |
