@@ -52,9 +52,20 @@ Validate models:
 ```
 python -m src.quality.validate_models
 ```
+## Execution Result
+
+The analytical models were successfully created and validated.
+
+Executed commands:
+
+```bash
+python -m src.transform.run_models
+python -m src.quality.validate_models
+```
+
 ## Result
 
-Status: Passed
+All analytical model validations passed.
 
 ## Notes
 

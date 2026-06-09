@@ -487,13 +487,14 @@ Main quality controls:
 
 The project currently includes:
 
-* Professional project setup.
-* Docker/PostgreSQL environment.
-* Raw data ingestion.
-* Raw row count validation.
-* Project management documentation.
-* Quality management documentation.
-* Analytical modeling layer completed with staging and marts validation.
+- Professional project setup.
+- Docker/PostgreSQL environment.
+- Raw data ingestion.
+- Raw row count validation.
+- Project management documentation.
+- Quality management documentation.
+- Analytical modeling layer with staging and marts.
+- Analytical model validation.
 
 ## Next Steps
 
